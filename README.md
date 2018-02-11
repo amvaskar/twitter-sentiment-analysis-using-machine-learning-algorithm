@@ -1,6 +1,5 @@
 # Twitter-sentiment-Analysis-Using-Machine-Learning-Algorithm
-Twitter Sentiment Analysis
-### Twitter Sentiment Classifier
+###Twitter Sentiment Analysis
 
 This repo contains the code that will classify tweets as either _positive_ or _negative_ using various machine learning models such as Naive baeyes, Random Forest and others. 
 Rather than relying on older algorithms such as VADER and Textblob, this method models a classifier from scratch which also takes into account the presence of features such as emoticons, punctuations, exclamations, hashtags and other characters to determine the sentiment of the tweet.
