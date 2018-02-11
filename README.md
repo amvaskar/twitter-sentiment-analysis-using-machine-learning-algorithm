@@ -20,11 +20,11 @@ The format for the data is as follows:
 
 ### Algorithm And Tools Used
 
-#### Naive Bayes classifiers: 
-#### Random forests or random decision forests:
-#### k-nearest neighbors algorithm (k-NN):
-#### Scikit-learn:
-#### Natural Language Toolkit : 
+#### -Naive Bayes classifiers
+#### -Random forests or random decision forests
+#### -k-nearest neighbors algorithm (k-NN)
+#### -Scikit-learn
+#### -Natural Language Toolkit 
 
 
 
@@ -55,7 +55,7 @@ python predict.py
 
 ```
 Team Members:
-Vaskar Maharjan 
-Kritarth Acharya 
-Suraj Duwal
+Vaskar Maharjan,
+Kritarth Acharya, 
+Suraj Duwal.
 
