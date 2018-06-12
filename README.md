@@ -54,8 +54,3 @@ Run the script to check the results of the prediction.
 python predict.py
 
 ```
-Team Members:
-Vaskar Maharjan,
-Kritarth Acharya, 
-Suraj Duwal.
-
